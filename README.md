@@ -43,8 +43,7 @@ Nothing is written to your notes, and the tool makes no network requests.
 2. 双击解压目录里的 `install.command`；
 3. 终端窗口里看到「完成」即可，切到备忘录看效果。
 
-> 若双击时 macOS 提示「无法打开，因为来自身份不明的开发者」：在文件上右键 › 打开，或先执行
-> `xattr -d com.apple.quarantine install.command`。
+> 若双击时 macOS 提示「无法打开，因为来自身份不明的开发者」：打开「系统设置 › 隐私与安全性」，往下翻找到提示，点「仍要打开」并验证；或者在文件上右键 › 打开。
 
 ### 方式二：终端
 
