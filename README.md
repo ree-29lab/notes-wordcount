@@ -49,7 +49,7 @@ Nothing is written to your notes, and the tool makes no network requests.
 ### 方式二：终端
 
 ```bash
-git clone https://github.com/<owner>/notes-wordcount.git
+git clone https://github.com/ree-29lab/notes-wordcount.git
 cd notes-wordcount
 bash install.sh
 ```
